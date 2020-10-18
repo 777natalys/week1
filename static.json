@@ -2,7 +2,7 @@
 "headers": {
    "/*": {
     "X-Author": "natalys777",
-      " Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*"
   }
  }
 }
